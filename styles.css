@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(218, 144, 218);
+}
+
+p{
+    margin: 5%;
+    padding: 5%;
+    float: left;
+    font-family: 'Bree Serif';
+    font-weight: 100;
+    color: rgb(54, 23, 23);
+}
+
+.flexbox{
+    float: left;
+    display: flex;
+    margin: 2%
+}
+
+img{
+    border-radius: 13px;
+    box-shadow: 5px 5px 13px;
+    color: lightskyblue;
+
+}
+
+iframe{
+    margin: 9px;
+}
